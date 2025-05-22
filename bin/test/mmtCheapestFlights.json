@@ -1,0 +1,61 @@
+[ {
+  "Origin" : "Bengaluru",
+  "Arrival time" : "17:25",
+  "Destination" : "Kolkata",
+  "Airline name" : "IndiGo",
+  "Airline PNR" : "6E-6208",
+  "Duration" : "04h 30m",
+  "Discount applied" : "1200",
+  "Discounted fare" : "33870",
+  "Number of stops" : "1-stop",
+  "Departure time" : "12:55",
+  "Fare" : "35070"
+}, {
+  "Origin" : "Bengaluru",
+  "Arrival time" : "13:30",
+  "Destination" : "Kolkata",
+  "Airline name" : "IndiGo",
+  "Airline PNR" : "6E-6801",
+  "Duration" : "05h 05m",
+  "Discount applied" : "1200",
+  "Discounted fare" : "33870",
+  "Number of stops" : "1-stop",
+  "Departure time" : "08:25",
+  "Fare" : "35070"
+}, {
+  "Origin" : "Bengaluru",
+  "Arrival time" : "23:40",
+  "Destination" : "Kolkata",
+  "Airline name" : "IndiGo",
+  "Airline PNR" : "6E-6017",
+  "Duration" : "05h 10m",
+  "Discount applied" : "1200",
+  "Discounted fare" : "33870",
+  "Number of stops" : "1-stop",
+  "Departure time" : "18:30",
+  "Fare" : "35070"
+}, {
+  "Origin" : "Bengaluru",
+  "Arrival time" : "18:00",
+  "Destination" : "Kolkata",
+  "Airline name" : "IndiGo",
+  "Airline PNR" : "6E-6653",
+  "Duration" : "05h 25m",
+  "Discount applied" : "1200",
+  "Discounted fare" : "33870",
+  "Number of stops" : "1-stop",
+  "Departure time" : "12:35",
+  "Fare" : "35070"
+}, {
+  "Origin" : "Bengaluru",
+  "Arrival time" : "20:50",
+  "Destination" : "Kolkata",
+  "Airline name" : "IndiGo",
+  "Airline PNR" : "6E-6277",
+  "Duration" : "06h 05m",
+  "Discount applied" : "1200",
+  "Discounted fare" : "33870",
+  "Number of stops" : "1-stop",
+  "Departure time" : "14:45",
+  "Fare" : "35070"
+} ]
